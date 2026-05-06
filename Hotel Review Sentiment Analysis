@@ -50,10 +50,9 @@ Exported model + vectorizer (.pkl)
 
 🚀 How to Run
 1️⃣ Install dependencies
-Code
 pip install -r requirements.txt
+
 2️⃣ Train the model
-Code
 python src/train.py
 
 3️⃣ Output
